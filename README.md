@@ -12,6 +12,7 @@ This is a sales analysis of **Meriskill**, they want to identify which product a
 1. Which product generate the highest revenue?
 2. which country generate the hightest revenue?
 3. what is the best performing day?
+4. What product have the highest order?
 
 ## Skills/ Concepts Demostrated
 The following power BI features was incorporated:
