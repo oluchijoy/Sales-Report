@@ -5,7 +5,7 @@
 ## Introduction
 ---
 This is a sales analysis of **Meriskill**, they want to identify which product and country generate the highest revenue. 
-😄
+
 
 
 ## Problem Statement
@@ -32,6 +32,8 @@ The report comprises of two pages
 
 you can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiYzNmMGZjYmEtODRhOS00NDU2LWIxYmQtYjg3MzY3NmE2YTZjIiwidCI6ImNmYTI1N2FmLTk1N2EtNDU3Ny05MWIyLTU4ZjYwMDgzZmYyZSJ9)
 
-###Image of the Analysis                     |  Continaution of the Analysis
-:--------------------------------------------|:---------------------------------------:
-![](MeriSkill_Sales_Report_Image_1.png)      | ![](MeriSkill_Sales_Report_Image_2.png)
+Image of the Analysis                  
+![](MeriSkill_Sales_Report_Image_1.png)
+
+Continaution of the Analysis
+![](MeriSkill_Sales_Report_Image_2.png)
