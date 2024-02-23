@@ -1,6 +1,6 @@
 # Sales-Report
 
-![](MeriSkill_Sales_Report_Image_1.png) 
+![](sales-icon_1.jpg) 
 
 ## Introduction
 ---
