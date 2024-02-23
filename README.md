@@ -1,6 +1,6 @@
 # Sales Analysis-Report
 
-![](store_logo_icon.jpg) 
+![](Sales_Reports_4_Github.jpg) 
 
 ## Introduction
 ---
