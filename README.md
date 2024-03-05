@@ -4,7 +4,7 @@
 
 ## Introduction
 ---
-These sales analysis report in Power BI represents a dynamic and comprehensive analysis of critical performance metrics, providing stakeholders with a visualized understanding of sales dynamics.
+This sales analysis report in Power BI represents a dynamic and comprehensive analysis of critical performance metrics, providing stakeholders with a visualized understanding of sales dynamics.
 
 
 
