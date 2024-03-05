@@ -1,10 +1,10 @@
-# Sales Analysis-Report
+# Sales Analysis-Report in Power BI
 
 ![](Sales_Reports_4_Github.jpg) 
 
 ## Introduction
 ---
-This is a sales analysis of **Meriskill**, they want to identify which product and country generate the highest revenue. 
+These sales analysis report in Power BI represents a dynamic and comprehensive analysis of critical performance metrics, providing stakeholders with a visualized understanding of sales dynamics.
 
 
 
